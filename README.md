@@ -18,7 +18,7 @@ représentations graphiques.
 
 # Présentation du projet
 Vous trouverez ci-joint ma présentation de ce travaille rédiger sous l’éditeur LaTeX, on nous a demandé de 
-faire le minimum de rédaction qui va se focaliser sur les miles par gallon. Donc tout est minimiser. 
+faire le minimum de rédaction qui va se focaliser sur les miles par gallon. Donc tout est minimisé. 
 Tout au long du travail, on a implémenté plusieurs algorithmes ( dans SAS) pour la création du meilleur
 fichier de prédiction, toute fois le code SAS ci-joint pressente les implémentations qui nous ramene au meilleur modèle.
 Les différents données sont à votre dispositions ( ci-joints) vous pouvez donc prendre le code SAS ci-joint et l’exécuter 
